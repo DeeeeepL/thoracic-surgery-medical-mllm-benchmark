@@ -187,6 +187,8 @@ B. 呼气末气道压力调为0.98kPa可避免盘状肺不张
 
 C. ...
 
+---
+
 **题型2：文本问答题**
 
 题目：  
@@ -196,6 +198,8 @@ According to the NCCN Guidelines (Version 1.2026), what are the treatment option
 1. Mentions surgery as an option for resectable stage I–IIA SCLC.
 2. Mentions requirement for multidisciplinary evaluation before surgery.
 3. ...
+
+---
 
 **题型3：多模态病例推理题**
 
