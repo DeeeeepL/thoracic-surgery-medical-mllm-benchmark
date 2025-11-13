@@ -219,6 +219,7 @@ According to the NCCN Guidelines (Version 1.2026), what are the treatment option
 2. IIIA 期 NSCLC，使用德曲妥单抗新辅助治疗3周期后影像学PR；
 3. ...
 
+---
 
 ### 多模态题中非文本类数据格式说明
 
