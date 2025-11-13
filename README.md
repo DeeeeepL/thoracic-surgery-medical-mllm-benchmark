@@ -1,4 +1,4 @@
-# 医疗大模型评测专项推进实施方案
+# 医疗大模型评测专项-胸外科医疗大模型评测
 ## 一、评测总体介绍
 
 本次“北京市医疗大模型评测专项”以胸外科真实临床场景为核心，由国内胸外科院士团队牵头设计，依托权威指南、真实临床病例、多模态医学图像与开放式场景任务组成的高质量评测数据集，对大模型进行体系化、量化、可复现的胸外科能力测试。
@@ -237,7 +237,8 @@ According to the NCCN Guidelines (Version 1.2026), what are the treatment option
 
 📁 多模态影像
 
-![alt text](image.png) ![alt text](774ca071-8682-4ac4-818b-05aeaaed4257.png)
+<img src="examples/CTseries.png" alt="多模态影像示意" width="100">
+<img src="examples/PETctseries.png" alt="多模态影像示意" width="100">
 
 题目：患者诊断为 ERBB2 20ins 突变的 PD-L1 表达为 2%，更换治疗方案为德曲妥单抗的支持是什么？
 
