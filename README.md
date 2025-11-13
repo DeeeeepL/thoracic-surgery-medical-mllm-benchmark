@@ -225,7 +225,7 @@ According to the NCCN Guidelines (Version 1.2026), what are the treatment option
 
 | 数据类型           | 格式       | 说明 |
 |--------------------|------------|------|
-| 病理图像           | JPG / JPEG | 已脱敏，单张或多张 |
+| 病理图像           | JPG / JPEG | 单张或多张 |
 | CT 原始序列        | NIfTI (.nii) | 包含非增强/增强 CT |
 | PET 序列           | NIfTI (.nii) | 提供 SUV 信息 |
 
