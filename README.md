@@ -237,8 +237,7 @@ According to the NCCN Guidelines (Version 1.2026), what are the treatment option
 
 📁 多模态影像
 
-<img src="examples/CTseries.png" alt="多模态影像示意" width="100">
-<img src="examples/PETctseries.png" alt="多模态影像示意" width="100">
+<img src="examples/CTseries.png" alt="多模态影像示意" width="100"> <img src="examples/PETctseries.png" alt="多模态影像示意" width="100">
 
 题目：患者诊断为 ERBB2 20ins 突变的 PD-L1 表达为 2%，更换治疗方案为德曲妥单抗的支持是什么？
 
